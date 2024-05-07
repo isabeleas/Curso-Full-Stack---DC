@@ -1,0 +1,29 @@
+img {
+    height: 50px;
+    width: 150px;
+    top: 20px;
+    left: 0;
+    position:static
+}
+
+
+h1  {
+    color: rgb(4, 4, 68);
+    font-family: arial;
+    font-size: 30px;
+    position: relative;
+    top: 60px;
+
+}
+
+p   {
+    color: rgb(4, 4, 68);
+    font-family: arial;
+    font-size: 20px;
+    position:relative;
+    top: 100px;
+}
+
+.container {
+    text-align: center;
+}
