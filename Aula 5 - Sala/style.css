@@ -1,0 +1,46 @@
+img {
+    width: 40px;
+    height: 40px;
+}
+
+
+body {
+    display: flex;
+    background-color:rgb(28, 28, 41);
+    justify-content: center;
+    text-align: center;
+    margin-top: 200px;
+    font-family: "Poppins";
+}
+
+
+
+#main-container {
+    color: aliceblue;
+}
+
+
+table {
+    border: transparent;
+    background-color:rgb(28, 28, 41)
+}
+
+
+th, td  {
+    width: 100vw;
+    text-align: center;
+
+}
+
+tr:nth-child(even){
+    background-color:rgb(71, 71, 82);
+    width: 100vw;x
+}
+
+table thead tr {
+    background-color: rgb(71, 71, 82);
+}
+
+caption {
+    font-size: 40px;
+}
