@@ -1,0 +1,47 @@
+header {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+
+header > div {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+header > div > nav > ul {
+    display: flex;
+    list-style: none;
+    gap: 15px;
+}
+
+
+main {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(1, 1, 8);
+}
+
+
+main > section {
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(9, 7, 3);
+    padding: 20px;
+    gap: 20px;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+main > section > div {
+    width: 120px;
+    height: 120px;
+    background-color:blue;
+}
