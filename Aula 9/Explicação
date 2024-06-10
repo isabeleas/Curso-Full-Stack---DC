@@ -28,3 +28,22 @@ Arquivo/pasta com a função de especificar o que não quero que faça upload, p
 
 MIT License:
 Licença de código aberto, onde o código pode ser utilizado por outras pessoas, com a contrapartida que os créditos aos autor seja dado.
+
+--------------------
+
+Git
+
+Branch – Ramificação para cada divisão que será feita. Dividir atividades com outras pessoas. (master: projeto principal)
+Git Init – Inicia o repositório
+Git Status – Status do meu arquivo, acompanhamento das modificações.
+Git Branch – Saber mais detalhes sobre a branch
+Git Config – Configuração de usuário. (git config --global user.name “Isabele”) (git config –global user.name isabelealmeida2@gmail.com)
+
+
+----- Leitura em casa ------
+Git Init
+Git Status
+Git Add
+Git Commit
+Git Pull
+Git Push
