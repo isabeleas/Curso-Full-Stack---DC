@@ -1,0 +1,30 @@
+Aula 1- Módulo 3
+Git
+
+Definição:
+Programa de software para gerenciar um projeto. Usado para qualquer tipo de versionamento. É um sistema de controle de versão.
+Versionamento: projeto 1, adiciona outras informações e adiciona o novo arquivo como versão atualizada.
+
+Instalação:
+https://git-scm.com/
+
+Armazenamento dos projetos:
+GitLab
+BitBucket
+GitHub 
+
+
+-------------------
+
+Git x GitHub:
+Git: Funcionalidade, programa de armazenamento para computador, gratuito.
+GitHub: Site para hospedar o código e armazenar. (Repositórios, sites que possibilitam um espaço para adicionar qualquer tipo de conteúdo)
+
+ReadMe (github):
+Arquivo com informações básicas sobre o projeto no GitHub. (Quem é o autor, linguagem, o que ele faz, como faz pra instalar na máquina).
+
+Gitignore (github):
+Arquivo/pasta com a função de especificar o que não quero que faça upload, pois o vscode (ide) adiciona informações ocultas no código.
+
+MIT License:
+Licença de código aberto, onde o código pode ser utilizado por outras pessoas, com a contrapartida que os créditos aos autor seja dado.
